@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.upgrad.testing.CalculatorTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-06-04T15:02:42" hostname="DESKTOP-E2G9GTH" time="0.214">
+  <properties/>
+  <testcase name="shouldReturnAdditionForNegativeNumber()" classname="com.upgrad.testing.CalculatorTest" time="0.042"/>
+  <testcase name="should Return Addition For Positive Number" classname="com.upgrad.testing.CalculatorTest" time="0.003"/>
+  <testcase name="[1] 5, 7, 12" classname="com.upgrad.testing.CalculatorTest" time="0.042"/>
+  <testcase name="[2] 5, -7, -2" classname="com.upgrad.testing.CalculatorTest" time="0.001"/>
+  <testcase name="[3] -5, 7, 2" classname="com.upgrad.testing.CalculatorTest" time="0.002"/>
+  <testcase name="[4] -5, -7, -12" classname="com.upgrad.testing.CalculatorTest" time="0.004"/>
+  <testcase name="shouldThrowExceptionWhenDividedByZero()" classname="com.upgrad.testing.CalculatorTest" time="0.006"/>
+  <testcase name="shouldReturnZeroWhenInputIsZero()" classname="com.upgrad.testing.CalculatorTest" time="0.001"/>
+  <testcase name="shouldReturnDivisionForGivenNumbers()" classname="com.upgrad.testing.CalculatorTest" time="0.002"/>
+  <testcase name="shouldReturnZeroWhenDividedToZero()" classname="com.upgrad.testing.CalculatorTest" time="0.007"/>
+  <system-out><![CDATA[Creating new calculator object
+Creating new calculator object
+Creating new calculator object
+Creating new calculator object
+Creating new calculator object
+Creating new calculator object
+Creating new calculator object
+Creating new calculator object
+Creating new calculator object
+Creating new calculator object
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
